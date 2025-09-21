@@ -85,7 +85,8 @@ La tarea contiene los siguientes archivos:
 
 8. Validar la creación de la imagen en el Docker Hub
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/45c1d5d3-71f5-42ef-9b8e-e03b9dc98e8a" />
+   <img width="1342" height="520" alt="image" src="https://github.com/user-attachments/assets/4d313a5f-c172-40dd-937e-b931d8176acb" />
+
 
 <br/>
 

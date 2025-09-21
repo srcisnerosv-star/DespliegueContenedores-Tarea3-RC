@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apache Seguro HTTPS</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+            background: linear-gradient(135deg, #1f3b73, #2d7bb0);
+            color: #ffffff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+        }
+
+        p {
+            font-size: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .certificate {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px 40px;
+            border-radius: 10px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+            display: inline-block;
+        }
+
+        .port {
+            font-weight: bold;
+            color: #ffdd57;
+        }
+
+        .checkmark {
+            font-size: 3rem;
+            color: #4CAF50;
+            margin-bottom: 1rem;
+        }
+
+        footer {
+            position: absolute;
+            bottom: 10px;
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="certificate">
+        <div class="checkmark">✔️</div>
+        <h1>¡Apache Seguro con HTTPS!</h1>
+        <p>Tu servidor está funcionando correctamente en el puerto <span class="port">443</span></p>
+        <p>Con certificado SSL/TLS activo y tráfico encriptado.</p>
+    </div>
+    <footer>
+        Proyecto de DevOps – Docker Compose & Hardening
+    </footer>
+</body>
+</html>
+

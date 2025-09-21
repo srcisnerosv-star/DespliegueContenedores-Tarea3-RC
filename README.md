@@ -48,29 +48,29 @@ La tarea contiene los siguientes archivos:
 
 2. Cargarlos a GitHub.
 
-   ![Imagen de WhatsApp 2025-09-20 a las 22 29 23_128dd842](https://github.com/user-attachments/assets/09d340e5-f517-4ee7-aec5-3c049eeb5ecf)
+  <img width="886" height="467" alt="image" src="https://github.com/user-attachments/assets/f124ef7e-97d9-4a72-9b38-a513a41acdc2" />
 
-4. Definir las variables de entorno con las credenciales del Git Hub de cada integrante del Grupo 3
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/066a87f3-92f8-44f5-9d57-8cdc0f2dce2b" />
+3. Definir las variables de entorno con las credenciales del Git Hub de cada integrante del Grupo 3
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/217424ac-527d-4c54-bdf6-46fe85c49af7" />
+   <img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/2264aff2-8c1c-4871-ba1e-1a3118d6ccf3" />
 
-5. Construir el workflow del `Docker Scout`
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/765195e2-51ad-49da-82d7-ffe8f8248f51" />
+4. Construir el workflow del `Docker Scout`
+
+   <img width="886" height="449" alt="image" src="https://github.com/user-attachments/assets/a01afc9c-674b-4cc7-aec3-138a07388602" />
+
 
 5. Definir la orquestación para analizar la imagen de fast-api indicando el nombre de la imagen con la cual se creará el repositorio en el Docker Hub
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/2db20e34-8df8-4221-88dd-1c4848e571be" />
+   <img width="886" height="561" alt="image" src="https://github.com/user-attachments/assets/45c42256-18c7-41d9-a152-1ebe9286e65b" />
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/5ea3d780-62ff-4cb9-994d-b10e5269d9e4" />
 
 6. Validar la ejecución del workflow
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/bd0c2e3a-34a7-4a7e-af22-1044f4445011" />
+  <img width="886" height="358" alt="image" src="https://github.com/user-attachments/assets/268c5329-478d-433c-a4fd-0467c2ec397f" />
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/9f392fd0-ba39-44c4-aaf8-a2d7dcca44ee" />
+ 
 
 7. Resultado del análisis del Docker Scout
 
